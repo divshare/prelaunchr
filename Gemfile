@@ -5,10 +5,10 @@ ruby '2.3.0'
 gem 'activeadmin', '1.0.0.pre2'
 gem 'delayed_job_active_record', '~> 4.0.3'
 gem 'devise'
-gem 'pg'
 gem 'rails', '4.2.5.2'
 gem 'unicorn'
 
+gem 'mysql2', '~> 0.3.11'
 
 # Gems used only for assets and not required
 # in production environments by default.
