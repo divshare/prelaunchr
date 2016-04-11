@@ -15,4 +15,6 @@ test:
 production:
   adapter: mysql2
   database: prelaunchr
-  host: localhost
+  username: divshare-dev
+  password: ckhgGWjNL4MM9uN3qpr^PzTa
+  host: 10.107.176.131
